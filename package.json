@@ -1,0 +1,23 @@
+{
+  "name": "biogesund-website",
+  "version": "1.0.0",
+  "description": "Website for Biogesund - Molecular biology, precision medicine and wellness",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server -p 3000 -c-1",
+    "dev": "npx http-server -p 3000 -c-1"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "keywords": [
+    "biogesund",
+    "wellness",
+    "biology",
+    "monochrome",
+    "precision-medicine"
+  ],
+  "author": "Antigravity",
+  "license": "MIT"
+}
